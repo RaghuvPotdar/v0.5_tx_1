@@ -1,5 +1,3 @@
-# RAVEN TX — Firmware
-
 Production firmware for the RAVEN TX simulator transmitter (ESP32-S3, native USB HID joystick).
 Full design rationale is in `../RAVEN_TX_Handbook.md` (Sections 9–13).
 
